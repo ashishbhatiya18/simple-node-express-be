@@ -1,0 +1,25 @@
+{
+  "name": "simple-node-express-be",
+  "version": "1.0.0",
+  "description": "This is a simple node-express backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishbhatiya18/simple-node-express-be.git"
+  },
+  "author": "Ashish Bhatiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishbhatiya18/simple-node-express-be/issues"
+  },
+  "homepage": "https://github.com/ashishbhatiya18/simple-node-express-be#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
